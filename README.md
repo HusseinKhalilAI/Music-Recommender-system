@@ -196,6 +196,3 @@ Folds are created on first run and reused thereafter; delete `folds/` to regener
 - The blend weight is tuned on a single inner split rather than cross-validated.
 - BPR-MF's negative sampling is a Python loop; its result may understate the method given the compute budget it received.
 
-## License
-
-`<FILL: MIT / Apache-2.0>`
